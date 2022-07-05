@@ -27,6 +27,7 @@ class SplashActivity : AppCompatActivity() {
         Handler().postDelayed({
             if (pref["userNick", ""] != "") {
                 firebaseManager.nick = pref["userNick"] ?: ""
+                firebaseManager.updateFreeState(true)
                 goToMainActivity()
             } else {
                 goToLoginActivity()
