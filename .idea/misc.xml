@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/bg_accept_button.xml" value="0.292" />
+        <entry key="app/src/main/res/drawable/bg_button.xml" value="0.283" />
+        <entry key="app/src/main/res/drawable/bg_edittext.xml" value="0.1888072509765625" />
+        <entry key="app/src/main/res/drawable/bg_reject_button.xml" value="0.292" />
+        <entry key="app/src/main/res/layout/activity_call.xml" value="0.3223958333333333" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.28562164306640625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.3066123188405797" />
+        <entry key="app/src/main/res/layout/activity_video_chat_view.xml" value="0.15790710449218748" />
+        <entry key="app/src/main/res/layout/item_user.xml" value="0.2985122680664063" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

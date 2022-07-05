@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "754596064361",
+    "project_id": "mrt-firebase-sample",
+    "storage_bucket": "mrt-firebase-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754596064361:android:a18856876d2bcc2ff686f8",
+        "android_client_info": {
+          "package_name": "com.mrt.firebasesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754596064361-00u6gpri3hq8tvjbkkehte144626c71c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-jiRUcf6OuofMyT0agKnNT65PeQXPGRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754596064361-00u6gpri3hq8tvjbkkehte144626c71c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754596064361:android:bea9a34be8c8b18ef686f8",
+        "android_client_info": {
+          "package_name": "com.mrt.teamcall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754596064361-00u6gpri3hq8tvjbkkehte144626c71c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-jiRUcf6OuofMyT0agKnNT65PeQXPGRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754596064361-00u6gpri3hq8tvjbkkehte144626c71c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
